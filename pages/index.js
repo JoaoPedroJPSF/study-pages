@@ -1,4 +1,4 @@
 function Home(){
-  return <div>OI AMOOOO</div>
+  return <div>Te amo muitao bbzo</div>
 }
 export default Home
